@@ -24,3 +24,9 @@ a {
   color: gray;
   font-size: 21px;
 }
+
+#bottom h2 {
+  color: gray;
+  text-align: right;
+  font-weight: normal;
+}
