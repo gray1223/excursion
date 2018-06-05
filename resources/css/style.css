@@ -19,3 +19,8 @@ a {
 #phone {
   width: 450px;
 }
+
+#bottom p {
+  color: gray;
+  font-size: 21px;
+}
